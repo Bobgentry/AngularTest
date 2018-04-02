@@ -71,7 +71,7 @@ const appRoutes:Routes = [
     SignaturePadModule,
     BrowserAnimationsModule,
     RouterModule.forRoot(appRoutes),
-    ServiceWorkerModule.register('./ngsw-worker.js', { enabled: environment.production })
+    ServiceWorkerModule.register('ngsw-worker.js', { enabled: environment.production })
   ],
   providers: [
     // CheckForUpdateService,
