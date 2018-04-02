@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+
+*{	margin: 0;
+	padding: 0;
+    box-sizing: border-box;
+    
+}
+
+body {
+	font-family: calibri, sans-serif;
+}
+.mainPanel {
+    display: flex;
+    align-items: stretch;
+    height: calc(100vh - 66px -66px);
+}
