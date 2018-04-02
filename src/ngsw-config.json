@@ -7,7 +7,7 @@
       "files": [
         "/favicon.ico",
         "/index.html",
-        "apple-touch-icon.png"
+        "/apple-touch-icon.png"
       ],
       "versionedFiles": [
         "/*.bundle.css",
