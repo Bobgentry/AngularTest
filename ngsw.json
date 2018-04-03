@@ -1,18 +1,18 @@
 {
   "configVersion": 1,
-  "index": "https://Bobgentry.github.io/AngularTest/index.html",
+  "index": "https://bobgentry.github.io/AngularTest/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "https://Bobgentry.github.io/AngularTest/favicon.ico",
-        "https://Bobgentry.github.io/AngularTest/index.html",
-        "https://Bobgentry.github.io/AngularTest/inline.318b50c57b4eba3d437b.bundle.js",
-        "https://Bobgentry.github.io/AngularTest/main.54826e657b4066a929d5.bundle.js",
-        "https://Bobgentry.github.io/AngularTest/polyfills.8847e333380b2b4c3385.bundle.js",
-        "https://Bobgentry.github.io/AngularTest/styles.aff4eac856d4903c652d.bundle.css"
+        "https://bobgentry.github.io/AngularTest/favicon.ico",
+        "https://bobgentry.github.io/AngularTest/index.html",
+        "https://bobgentry.github.io/AngularTest/inline.318b50c57b4eba3d437b.bundle.js",
+        "https://bobgentry.github.io/AngularTest/main.11ceb425a48ea5918907.bundle.js",
+        "https://bobgentry.github.io/AngularTest/polyfills.8847e333380b2b4c3385.bundle.js",
+        "https://bobgentry.github.io/AngularTest/styles.32da113e98b9a0228bcb.bundle.css"
       ],
       "patterns": []
     },
@@ -21,35 +21,35 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "https://Bobgentry.github.io/AngularTest/assets/apple-touch-icon.png",
-        "https://Bobgentry.github.io/AngularTest/assets/background.jpg",
-        "https://Bobgentry.github.io/AngularTest/assets/Capture2.PNG",
-        "https://Bobgentry.github.io/AngularTest/assets/icon-128x128.png",
-        "https://Bobgentry.github.io/AngularTest/assets/icon-152x152.png",
-        "https://Bobgentry.github.io/AngularTest/assets/icon-256x256.png",
-        "https://Bobgentry.github.io/AngularTest/assets/icon-512x512.png",
-        "https://Bobgentry.github.io/AngularTest/assets/person-icon--icon-search-engine-3.png",
-        "https://Bobgentry.github.io/AngularTest/assets/rotate.png"
+        "https://bobgentry.github.io/AngularTest/assets/apple-touch-icon.png",
+        "https://bobgentry.github.io/AngularTest/assets/background.jpg",
+        "https://bobgentry.github.io/AngularTest/assets/Capture2.PNG",
+        "https://bobgentry.github.io/AngularTest/assets/icon-128x128.png",
+        "https://bobgentry.github.io/AngularTest/assets/icon-152x152.png",
+        "https://bobgentry.github.io/AngularTest/assets/icon-256x256.png",
+        "https://bobgentry.github.io/AngularTest/assets/icon-512x512.png",
+        "https://bobgentry.github.io/AngularTest/assets/person-icon--icon-search-engine-3.png",
+        "https://bobgentry.github.io/AngularTest/assets/rotate.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://Bobgentry.github.io/AngularTest/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
-    "https://Bobgentry.github.io/AngularTest/assets/apple-touch-icon.png": "e53455be864189caa8fb98e9d7921caefe968992",
-    "https://Bobgentry.github.io/AngularTest/main.54826e657b4066a929d5.bundle.js": "47739543e145c68bf30dd4b6370a71d3c9faf56e",
-    "https://Bobgentry.github.io/AngularTest/assets/background.jpg": "b948ef679506c28105d1d3ceb504fdf81cb1f06f",
-    "https://Bobgentry.github.io/AngularTest/polyfills.8847e333380b2b4c3385.bundle.js": "138162e30294574c49d02f57a0ae8f31acc0934d",
-    "https://Bobgentry.github.io/AngularTest/assets/Capture2.PNG": "c167c8bdb515bb3558f4937b2a5e00d506c5bef7",
-    "https://Bobgentry.github.io/AngularTest/styles.aff4eac856d4903c652d.bundle.css": "fb6b5a6502d189aac3d03729317b7e6876805faf",
-    "https://Bobgentry.github.io/AngularTest/assets/icon-128x128.png": "b5929342b5aa5948913dad99dc07474d684f8e2f",
-    "https://Bobgentry.github.io/AngularTest/favicon.ico": "63e8ff6a94ed83e2f03fd498cf465b149fdb4a45",
-    "https://Bobgentry.github.io/AngularTest/assets/icon-152x152.png": "b0fd72c2e427197d442730b2cbb200a535306d6a",
-    "https://Bobgentry.github.io/AngularTest/index.html": "43efad89e98aa1b7acb6d9916d13bb624806870a",
-    "https://Bobgentry.github.io/AngularTest/assets/icon-256x256.png": "d5e9ab30d6924e0a9732f2344ecea8cbca1924c1",
-    "https://Bobgentry.github.io/AngularTest/assets/icon-512x512.png": "49afb86ef09242d1a81521d4c827f2a6668e8831",
-    "https://Bobgentry.github.io/AngularTest/assets/person-icon--icon-search-engine-3.png": "b63db7ed8556b035144306e106cd2d14a0e3b14c",
-    "https://Bobgentry.github.io/AngularTest/assets/rotate.png": "1f33984fa58ea19adbd2190089daba81c799431d"
+    "https://bobgentry.github.io/AngularTest/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
+    "https://bobgentry.github.io/AngularTest/assets/apple-touch-icon.png": "e53455be864189caa8fb98e9d7921caefe968992",
+    "https://bobgentry.github.io/AngularTest/main.11ceb425a48ea5918907.bundle.js": "0cf82bd30333b3b586c56182298b61cd6d413f65",
+    "https://bobgentry.github.io/AngularTest/assets/background.jpg": "b948ef679506c28105d1d3ceb504fdf81cb1f06f",
+    "https://bobgentry.github.io/AngularTest/polyfills.8847e333380b2b4c3385.bundle.js": "138162e30294574c49d02f57a0ae8f31acc0934d",
+    "https://bobgentry.github.io/AngularTest/assets/Capture2.PNG": "c167c8bdb515bb3558f4937b2a5e00d506c5bef7",
+    "https://bobgentry.github.io/AngularTest/styles.32da113e98b9a0228bcb.bundle.css": "fb6b5a6502d189aac3d03729317b7e6876805faf",
+    "https://bobgentry.github.io/AngularTest/assets/icon-128x128.png": "b5929342b5aa5948913dad99dc07474d684f8e2f",
+    "https://bobgentry.github.io/AngularTest/favicon.ico": "63e8ff6a94ed83e2f03fd498cf465b149fdb4a45",
+    "https://bobgentry.github.io/AngularTest/assets/icon-152x152.png": "b0fd72c2e427197d442730b2cbb200a535306d6a",
+    "https://bobgentry.github.io/AngularTest/index.html": "96a4404d5523314d79c4033adfed5630bd7644ea",
+    "https://bobgentry.github.io/AngularTest/assets/icon-256x256.png": "d5e9ab30d6924e0a9732f2344ecea8cbca1924c1",
+    "https://bobgentry.github.io/AngularTest/assets/icon-512x512.png": "49afb86ef09242d1a81521d4c827f2a6668e8831",
+    "https://bobgentry.github.io/AngularTest/assets/person-icon--icon-search-engine-3.png": "b63db7ed8556b035144306e106cd2d14a0e3b14c",
+    "https://bobgentry.github.io/AngularTest/assets/rotate.png": "1f33984fa58ea19adbd2190089daba81c799431d"
   }
 }
