@@ -14,10 +14,10 @@
   
         <div [ngSwitch]="pagename">
         {{value}}
-       <div *ngSwitchCase="'MainPage'"><app-mainPanel  ></app-mainPanel></div>
+       <div *ngSwitchCase="'MainPage'"><app-get-signature></app-get-signature></div>
        <div *ngSwitchCase="'Page2'"><app-image-capture></app-image-capture><b></b> </div>
        <div *ngSwitchCase="'Page3'"><app-firstpage ></app-firstpage> </div>
-       <div *ngSwitchCase="'other'">This is page 3<b></b> </div>
+       <div *ngSwitchCase="'editor'"><app-editor></app-editor><b></b> </div>
        <div *ngSwitchCase="'another'">This is another page<b></b> </div>
 
         <div *ngSwitchDefault><app-firstpage ></app-firstpage></div>

@@ -61,4 +61,10 @@ export class SidebarComponent implements OnInit {
     this.RemoveSidebar();
   }
 
+  editorpanel()
+  {
+    this.router.navigate(['dashboard','editor']);
+    this.RemoveSidebar();
+  }
+
 }

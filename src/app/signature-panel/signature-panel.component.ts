@@ -1,7 +1,7 @@
 import { Component, ViewChild } from '@angular/core';
 
 import { SignaturePad } from 'angular2-signaturepad/signature-pad';
-import { MainPanelComponent } from '../mainPanel/mainPanel.Component';
+//import { MainPanelComponent } from '../mainPanel/mainPanel.Component';
 import {SignatureService} from '../signature.service';
 import { ActivatedRoute, Router } from '@angular/router';
 import { ResponsiveModule } from 'ng2-responsive'

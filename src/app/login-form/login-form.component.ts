@@ -48,7 +48,7 @@ export class LoginFormComponent implements OnInit {
  
 
          
-         this.router.navigate(['dashboard']);
+         this.router.navigate(['dashboard']); //editor
 }
 loginfail()
 {
