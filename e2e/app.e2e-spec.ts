@@ -1,10 +1,10 @@
-import { AppPage } from './app.po';
+import { NgFormBuilderPage } from './app.po';
 
-describe('bobs-app App', () => {
-  let page: AppPage;
+describe('ng-form-builder App', () => {
+  let page: NgFormBuilderPage;
 
   beforeEach(() => {
-    page = new AppPage();
+    page = new NgFormBuilderPage();
   });
 
   it('should display welcome message', () => {
