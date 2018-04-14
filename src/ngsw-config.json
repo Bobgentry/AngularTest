@@ -7,12 +7,16 @@
       "files": [
         "/favicon.ico",
         "/index.html",
-        "/apple-touch-icon.png"
+        "/apple-touch-icon.png",
+        "/assets/**"
       ],
       "versionedFiles": [
         "/*.bundle.css",
         "/*.bundle.js",
         "/*.chunk.js"
+      ],
+      "urls": [
+       "https://bobgentry.github.io/AngularTest/**"
       ]
     }
   }, {
